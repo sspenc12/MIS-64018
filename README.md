@@ -7,3 +7,5 @@ This assignment goals were to get acquainted with R, RStudio, Github, and create
 
 Assignment 1-2:
 
+This assignment's goal was to familiarize ourselves with the thought process and problem formulation involved in linear programming. The example problem focuses on an imaginary company that wishes to maximize profits of backpack sales based on several material, labor, and sales constraints.
+
