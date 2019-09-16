@@ -13,5 +13,5 @@ Large Sales: +Plant 1L +Plant 2L +Plant 3L <= 900;
 Medium Sales: +Plant 1M +Plant 2M +Plant 3M <= 1200;
 Small Sales: +Plant 1S +Plant 2S +Plant 3S <= 750;
 Plant 1 and 2 Usage: +900 Plant 1L -750 Plant 2L +900 Plant 1M -750 Plant 2M +900 Plant 1S -750 Plant 2S = 0;
-Plant 2 and 3 Usage: +450 Plant 1L -750 Plant 3L +450 Plant 1M -750 Plant 3M +450 Plant 1S -750 Plant 3S = 0;
-Plant 1 and 3 Usage: 0 Plant 1L = 0;
+Plant 2 and 3 Usage: +450 Plant 2L -900 Plant 3L +450 Plant 2M -900 Plant 3M +450 Plant 2S -900 Plant 3S = 0;
+Plant 1 and 3 Usage: +450 Plant 1L -750 Plant 3L +450 Plant 1M -750 Plant 3M +450 Plant 1S -750 Plant 3S = 0;

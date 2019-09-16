@@ -22,7 +22,7 @@ First, we need to create a linear programming object. Based on our outline in st
 
 ```{r}
 
-# Begin the lp problem with 11 constraints and 9 decision variables.
+# Begin the lp problem with 12 constraints and 9 decision variables.
 
 lprec <- make.lp(12,9)
 
@@ -70,7 +70,7 @@ set.row(lprec, 9, c(1,1,1), indices = c(7,8,9))
 
 set.row(lprec, 10, c(900,900,900,-750,-750,-750), indices = c(1,4,7,2,5,8))
 set.row(lprec, 11, c(450,450,450,-900,-900,-900), indices = c(2,5,8,3,6,9))
-set.row(lprec, 11, c(450,450,450,-750,-750,-750), indices = c(1,4,7,3,6,9))
+set.row(lprec, 12, c(450,450,450,-750,-750,-750), indices = c(1,4,7,3,6,9))
 
 ```
 
