@@ -15,7 +15,7 @@ The goal of this assignment was further practice the process of outlining a line
 
 Assignment 3:
 
-The goal of this assignment was to
+The goal of this assignment was to perform additional analysis on the output of Assignment 2 via post-optimality functions. This included a look at the shadow prices, dual solutions, and reduced costs. Additionally, this involved practice with forumlating the dual problem and solving it in RStudio with the "lpSolveAPI" library.
 
 Assignment 4:
 
