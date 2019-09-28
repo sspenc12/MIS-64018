@@ -12,3 +12,11 @@ This assignment's goal was to familiarize ourselves with the thought process and
 Assignment 2:
 
 The goal of this assignment was further practice the process of outlining a linear programming problem. In addition to that, we graphically solved one program to find the optimum solution based on decision variables and constraints. With a more complex problem, we used RStudio and the "lpSolveAPI" library to frame the problem in R and solve for the optimum solution.
+
+Assignment 3:
+
+The goal of this assignment was to
+
+Assignment 4:
+
+The goal of this assignment was to formulate and solve transportation problems given various supply and demand constraints. Additionally, the assignment included practice with creating network diagrams to visualize the connections between plants and warehouses.
