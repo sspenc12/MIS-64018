@@ -20,3 +20,7 @@ The goal of this assignment was to perform additional analysis on the output of 
 Assignment 4:
 
 The goal of this assignment was to formulate and solve transportation problems given various supply and demand constraints. Additionally, the assignment included practice with creating network diagrams to visualize the connections between plants and warehouses.
+
+Assignment 5:
+
+The goal of this assignment was to formulate and solve integer programming problems. The first part of the assignment focused on a project network with various paths and defining what the longest, critical path was. The second part of the assignment presented an investment portfolio with various restrictions by the client. The goal was to maximize the return on investment while meeting the critera. Additionally, it looked at the difference between adding and removing integer restrictions to problems.
