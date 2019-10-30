@@ -24,3 +24,7 @@ The goal of this assignment was to formulate and solve transportation problems g
 Assignment 5:
 
 The goal of this assignment was to formulate and solve integer programming problems. The first part of the assignment focused on a project network with various paths and defining what the longest, critical path was. The second part of the assignment presented an investment portfolio with various restrictions by the client. The goal was to maximize the return on investment while meeting the critera. Additionally, it looked at the difference between adding and removing integer restrictions to problems.
+
+Assignment 6:
+
+The goal of this assignment was to become more familiar with Data Envelopment Analysis (DEA) and goal programming. The DEA problem focused on solving a problem with two inputs and outputs via DEA and all the different assumptions (FDH, CRS, VRS, IRS, DRS, and FRH/ADD. Lastly, it involved returning the lambda and peer values for each method and comparing the results between each method. The goal programming problem involved defining an objective function for a company that is impacted by different weights for exceeding or underachieving target goals. The output of the formulated linear programming model was reviewed to make business sense of the output.
