@@ -28,3 +28,7 @@ The goal of this assignment was to formulate and solve integer programming probl
 Assignment 6:
 
 The goal of this assignment was to become more familiar with Data Envelopment Analysis (DEA) and goal programming. The DEA problem focused on solving a problem with two inputs and outputs via DEA and all the different assumptions (FDH, CRS, VRS, IRS, DRS, and FRH/ADD. Lastly, it involved returning the lambda and peer values for each method and comparing the results between each method. The goal programming problem involved defining an objective function for a company that is impacted by different weights for exceeding or underachieving target goals. The output of the formulated linear programming model was reviewed to make business sense of the output.
+
+Assignment 7:
+
+The goal of this assignment was to choose a problem in a particular industry and apply linear programming to outline a solution. The milk industry was chosen for this project. Specifically, the change in inventory stocking levels for different types of cow milk and plant-based milks. There is a consistent decrease in cow's milk demanda and increase in plant-based milk demand. Therefore, retailers, distributors, and farmers need to realize the impact on their stocking levels and supply levels to avoid overproducing and wasting milk.
